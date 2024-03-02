@@ -2,9 +2,11 @@
 
 Juego desarrollado en 2018 como parte de la asignatura Programcion 1 de la Universidad Nacional de General Sarmiento
 
+## Descripcion
 El programa denominado como “el Exterminador”, es un juego que consiste en eliminar a la mayor cantidad de arañas posible evitando, a su vez, ue alguna de ellas interseque al jugador que poseerá el rol del exterminador. 
 El jugador dispondrá, para tal propósito, de arma con balas y de minas (ambas con capacidad de uso ilimitadas); Mientras que las arañas colocaran, cada cierto tiempo, telarañas que reducirán la velocidad del jugador a un 10% de su velocidad inicial.
 Además, el juego contendrá un numero ‘X’ de edificios que le imposibilitaran el paso tanto al exterminador como a las arañas y un contador de puntos que aumentara por cada araña exterminada.
+## Caracteristias del juego
 
 Al ejecutar este programa el jugador podrá observar un menú con dos opciones, inicio y controles. La primera de ellas, llevara el jugador a un nuevo menú , el cual, le permitirá seleccionar el nivel de dificultad en el que se inicializará el juego; 
 mientras que la segundo, le mostrara al jugador las teclas de acciones del exterminador.
@@ -15,6 +17,7 @@ colocar una telaraña cada ‘Y’ tiempo; además , por cada araña exterminada
 puntos para acceder al siguiente nivel. El último de los niveles, dibuja en el juego entre 15 a 19 edificios y hablita el avance de 3 arañas hacia el exterminador cada ‘x/4’ tiempo , posibilitándole la colocación de un telaraña a cada un de ellas por
 cada ‘Y/4’ tiempo, también aumenta el puntaje por araña eliminada de 100 a 150 puntos. 
 
+## Detalles
 Un detalle a comentar del juego es que un telaraña desaparecerá si entran en contacto con una explosión de mina o después de su tiempo de colocación multiplicado por tres. Además , toda telaraña generada
 de una misma araña desaparecerá al instante si esa araña es exterminada.
 
