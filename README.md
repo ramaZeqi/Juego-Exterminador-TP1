@@ -1,3 +1,5 @@
+# Juego EXTETERMINADOR
+
 Juego desarrollado en 2018 como parte de la asignatura Programcion 1 de la Universidad Nacional de General Sarmiento
 
 El programa denominado como “el Exterminador”, es un juego que consiste en eliminar a la mayor cantidad de arañas posible evitando, a su vez, ue alguna de ellas interseque al jugador que poseerá el rol del exterminador. 
