@@ -1,0 +1,7 @@
+Para agregar el entorno
+
+windows -> preference -> java-> build path -> user libraries -> new/add external Jars.
+
+despues, en la parte de las carpeta:
+
+click derecho TP1 ->build path -> add library -> user library -> next-> entorno
